@@ -17,7 +17,7 @@
 
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-left">
-            <li><a href="../public_html/index.php">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li><a href="about.php">About</a></li>
             <li><a href="hours_directions.php">Hours and Directions</a></li>
             <li><a href="news.html">News</a></li>
