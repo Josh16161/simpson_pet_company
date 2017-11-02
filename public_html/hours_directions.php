@@ -47,9 +47,9 @@
         </section>
       </section>
     </div>
-    <footer>
-      <p>&copy; Copyright 2017 Simpson Pet Company</p>
-    </footer>
+    <?php
+  include '../resources/footer.php';
+  ?>
   </body>
 
 </html>

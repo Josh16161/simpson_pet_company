@@ -53,7 +53,10 @@
         <p><a class="btn btn-success btn-lg">Donate</a></p>
       </div>
     </div>
-    <footer>&copy; Copyright 2017 Simpson Pet Company</footer>
+
+    <?php
+    include '../resources/footer.php';
+    ?>
 
     <!-- Scripts required to make Bootstrap work better. -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
