@@ -17,9 +17,9 @@
 
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-left">
-            <li class="active"><a href="../public_html/index.php">Home</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="hours_directions.html">Hours and Directions</a></li>
+            <li><a href="../public_html/index.php">Home</a></li>
+            <li><a href="about.php">About</a></li>
+            <li><a href="hours_directions.php">Hours and Directions</a></li>
             <li><a href="news.html">News</a></li>
             <li><a href="pets_avaliable.html">Pets Available</a></li>
             <li><a href="pets_sold.html">Pets Sold</a></li>
