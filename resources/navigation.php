@@ -20,13 +20,13 @@
             <li><a href="index.php">Home</a></li>
             <li><a href="about.php">About</a></li>
             <li><a href="hours_directions.php">Hours and Directions</a></li>
-            <li><a href="news.html">News</a></li>
-            <li><a href="pets_avaliable.html">Pets Available</a></li>
-            <li><a href="pets_sold.html">Pets Sold</a></li>
+            <li><a href="news.php">News</a></li>
+            <li><a href="pets_avaliable.php">Pets Available</a></li>
+            <li><a href="pets_sold.php">Pets Sold</a></li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="sign_up.html">Sign Up</a></li>
-            <li><a href="login.html">Log In</a></li>
+            <li><a href="sign_up.php">Sign Up</a></li>
+            <li><a href="login.php">Log In</a></li>
           </ul>
         </div>
       </div>
